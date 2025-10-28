@@ -47,3 +47,24 @@
 ### Ressources
 - [Site officiel de Robert Shiller](http://www.econ.yale.edu/~shiller/)
 - [Données historiques du Shiller PE](https://www.multpl.com/shiller-pe)
+
+---
+treemap
+    title P/E Ratios - Juin 2025 (Taille = Valeur P/E)
+    Amériques:
+        États-Unis: 32.87
+        Canada: 22.89
+    Europe:
+        Allemagne: 24.32
+        Royaume-Uni: 18.59
+        Italie: 19.71
+        Espagne: 19.92
+    Asie:
+        Japon: 24.99
+        Chine: 15.41
+        Hong Kong: 10.25
+        Corée du Sud: 15.76
+        Inde: 35.76
+    Océanie:
+        Australie: 21.16
+
