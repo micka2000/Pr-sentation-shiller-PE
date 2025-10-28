@@ -51,7 +51,7 @@
 ---
 ```mermaid
 treemap
-    title PE Ratios Juin 2025 Taille Valeur PE
+    title PE_Ratios
     Ameriques:
         Etats-Unis: 32.87
         Canada: 22.89
