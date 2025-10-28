@@ -3,13 +3,11 @@
 ---
 
 ## Qu'est-ce que le Shiller PE ?
-- Également appelé **CAPE Ratio** (Cyclically Adjusted Price-to-Earnings).
-- Développé par **Robert Shiller**, prix Nobel d'économie.
-- Formule :
-  \[
-  Shiller \ PE = \frac{Prix \ de \ l'action}{Moyenne \ des \ bénéfices \ ajustés \ sur \ 10 \ ans}
-  \]
-- Permet de lisser les fluctuations économiques et les pics.
+- Également appelé **CAPE Ratio** (*Cyclically Adjusted Price-to-Earnings*).  
+- Développé par **Robert Shiller**, prix Nobel d'économie.  
+Formule :  
+  Shiller PE = (Prix de l'action)/(Moyenne des bénéfices ajustés sur 10 ans) 
+Permet de lisser les fluctuations économiques et les pics.
 
 ---
 
