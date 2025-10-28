@@ -49,6 +49,7 @@
 - [Données historiques du Shiller PE](https://www.multpl.com/shiller-pe)
 
 ---
+ˋˋˋmermaid
 treemap
     title P/E Ratios - Juin 2025 (Taille = Valeur P/E)
     Amériques:
@@ -67,4 +68,5 @@ treemap
         Inde: 35.76
     Océanie:
         Australie: 21.16
+ˋˋˋ
 
