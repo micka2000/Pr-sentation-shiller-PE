@@ -50,22 +50,22 @@
 
 ---
 ```mermaid
-treemap
-    title PE_Ratios
-    Ameriques:
-        Etats-Unis: 32.87
-        Canada: 22.89
-    Europe:
-        Allemagne: 24.32
-        Royaume-Uni: 18.59
-        Italie: 19.71
-        Espagne: 19.92
-    Asie:
-        Japon: 24.99
-        Chine: 15.41
-        Hong Kong: 10.25
-        Coree du Sud: 15.76
-        Inde: 35.76
-    Oceanie:
-        Australie: 21.16
+treemap-beta
+"PE_Ratios"
+  "Ameriques"
+    "Etats-Unis": 32.87
+    "Canada": 22.89
+  "Europe"
+    "Allemagne": 24.32
+    "Royaume-Uni": 18.59
+    "Italie": 19.71
+    "Espagne": 19.92
+  "Asie"
+    "Japon": 24.99
+    "Chine": 15.41
+    "Hong Kong": 10.25
+    "Coree du Sud": 15.76
+    "Inde": 35.76
+  "Oceanie"
+    "Australie": 21.16
 ```
