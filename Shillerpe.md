@@ -52,7 +52,7 @@
 ```mermaid
 treemap
     title P/E Ratios - Juin 2025 (Taille = Valeur P/E)
-    Amériques:
+    Ameriques:
         Etats-Unis: 32.87
         Canada: 22.89
     Europe:
