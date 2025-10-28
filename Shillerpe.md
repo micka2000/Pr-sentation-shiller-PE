@@ -53,7 +53,7 @@
 treemap
     title P/E Ratios - Juin 2025 (Taille = Valeur P/E)
     Amériques:
-        États-Unis: 32.87
+        Etats-Unis: 32.87
         Canada: 22.89
     Europe:
         Allemagne: 24.32
@@ -64,8 +64,8 @@ treemap
         Japon: 24.99
         Chine: 15.41
         Hong Kong: 10.25
-        Corée du Sud: 15.76
+        Coree du Sud: 15.76
         Inde: 35.76
-    Océanie:
+    Oceanie:
         Australie: 21.16
 ```
