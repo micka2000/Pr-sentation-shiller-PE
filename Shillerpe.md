@@ -7,7 +7,7 @@
 - Développé par **Robert Shiller**, prix Nobel d'économie.  
 Formule :  
   Shiller PE = (Prix de l'action)/(Moyenne des bénéfices ajustés sur 10 ans) 
-Permet de lisser les fluctuations économiques et les pics.
+- Permet de lisser les fluctuations économiques et les pics.
 
 ---
 
