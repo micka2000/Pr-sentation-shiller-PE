@@ -6,9 +6,9 @@
 - Également appelé **CAPE Ratio** (*Cyclically Adjusted Price-to-Earnings*).  
 - Développé par **Robert Shiller**, prix Nobel d'économie.  
 Formule :  
-$$
+$
 \text{Shiller } PE = \frac{\text{Prix de l'action}}{\text{Moyenne des bénéfices ajustés sur 10 ans}}
-$$
+$
 - Permet de lisser les fluctuations économiques et les pics.
 
 ---
