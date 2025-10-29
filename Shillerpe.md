@@ -8,7 +8,7 @@
 Formule :  
 ```math
 \text{Shiller } PE = \frac{\text{Prix de l'action}}{\text{Moyenne des bénéfices ajustés sur 10 ans}}
-
+```
 - Permet de lisser les fluctuations économiques et les pics.
 
 ---
