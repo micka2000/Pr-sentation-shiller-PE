@@ -1,4 +1,4 @@
-a# Le Ratio Shiller PE : Comprendre et Utiliser
+Le Ratio Shiller PE : Comprendre et Utiliser
 
 ---
 
